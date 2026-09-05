@@ -11,7 +11,7 @@ import sys
 # ╔══════════════════════════════════════════════════════════════════╗
 # ║  CREATOR: TARIKUL ISLAM
 # ║  TELEGRAN: https://t.me/Lorazalorach
-# ║  PERSONAL TELEGRAM: https://t.me/ilzxceu
+# ║  PERSONAL TELEGRAM: https://t.me/lzxceu
 # ╚══════════════════════════════════════════════════════════════════╝
 
 # Configure logging
