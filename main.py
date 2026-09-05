@@ -31,7 +31,7 @@ if not BOT_TOKEN:
 REQUIRED_CHANNELS = ["@lorazalora_store_bot"]
 GROUP_JOIN_LINK = "https://t.me/lorazaloralike"
 OWNER_ID = 930205881
-OWNER_USERNAME = "@lzxceu"
+OWNER_USERNAME = "@@lzxceu"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 like_tracker = {}   # in-memory cache
