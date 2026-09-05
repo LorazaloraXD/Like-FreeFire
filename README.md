@@ -14,15 +14,9 @@ A powerful Telegram bot designed to send likes to **Garena Free Fire** profiles 
 
 ---
 
-## 🤖 BOT Demo  
-
-Try this bot directly on Telegram:  
-
-[![Try on Telegram](https://img.shields.io/badge/Try%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paglu_like_bot) 
-
 ## 🤖 Bot Commands
 - `/start` - Start the bot and verify membership.
-- `/like <region> <uid>` - Send likes to the specified UID (Example: `/like bd 12345678`).
+- `/like <region> <uid>` - Send likes to the specified UID (Example: `/like id 12345678`).
 - `/help` - Show the help menu with all available commands.
 - `/remain` - (Owner Only) View detailed daily usage stats.
 
@@ -43,52 +37,3 @@ WEBHOOK_URL=https://your-app-domain.com  # Optional: Only for Webhook mode
 PORT=5000                                # Optional: Default is 5000
 ```
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/itz-paglu/Free-Fire-Like-Bot
-   cd Free-Fire-Like-Bot
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the bot:
-   ```bash
-   python main.py
-   ```
-
----
-
-## 🔗 How it Works
-1. **API Integration**: The bot communicates with a premium Free Fire Like API to process requests.
-2. **Reset Cycle**: Limits are automatically reset at **00:00 UTC** every day.
-
-
-## 📊 Repository Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/itz-paglu/Free-Fire-Like-Bot?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/forks/itz-paglu/Free-Fire-Like-Bot?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/contributors/itz-paglu/Free-Fire-Like-Bot?style=for-the-badge&logo=github&color=green" />
-  <img src="https://komarev.com/ghpvc/?username=itz-paglu&repo=Free-Fire-Like-Bot&style=for-the-badge&color=red" />
-</p>
-
----
-
-## 💛 Credits  
-
-<p align="center">
-  <a href="https://t.me/itzpaglu">
-    <img src="https://img.shields.io/badge/Owner-🔥%20@itzpaglu-pink?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/paglu_dev">
-    <img src="https://img.shields.io/badge/Channel-TARIKUL.dev-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/itz-paglu/Free-Fire-Like-Bot/stargazers" target="_blank">
-    <img src="https://img.shields.io/badge/⭐%20Star%20This%20Repo-yellow?style=for-the-badge&logo=github" />
-  </a>
-</p>
